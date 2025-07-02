@@ -41,7 +41,7 @@ const About = () => {
           {showResume && (
             <div className="mt-6">
               <iframe
-                src="public/Kevin Bobis CV.pdf"
+                src="/Kevin_Bobis_CV.pdf" 
                 title="Resume"
                 width="100%"
                 height="600px"
